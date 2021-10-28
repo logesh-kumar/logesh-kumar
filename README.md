@@ -1,4 +1,3 @@
-
 <!-- [![Visits Badge](https://badges.pufler.dev/visits/logesh-kumar/logesh-kumar)](https://techdebts.dev) -->
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/devlogesh)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/logeshkumar87/)
@@ -7,8 +6,7 @@
 
 ### Hi there, I am Logesh kumar 👋
 
-I am a full-stack developer and technology consultant. I am fully focused on solving problems and creating tools using Reactjs, React native, Typescript, Graphql, Nextjs, Flutter, nodejs, postgres, mysql, mongodb, WordPress, AWS, Docker. 
-
+I am a full-stack developer and technology consultant. I am fully focused on solving problems and creating tools using React.js, React native, TypeScript, GraphQL, Next.js, Flutter, Node.js, Postgres, MySQL, MongoDB, WordPress, AWS, and Docker.
 
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 🌱 I’m currently learning **Elixir**
@@ -34,7 +32,6 @@ I am a full-stack developer and technology consultant. I am fully focused on sol
 <br>
 <br>
 
-
 ## 💼 Skills
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -57,4 +54,3 @@ I am a full-stack developer and technology consultant. I am fully focused on sol
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
