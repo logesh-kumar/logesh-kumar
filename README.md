@@ -14,5 +14,5 @@ I am a full-stack developer and technology consultant. I am fully focused on sol
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me:  -->
-- 😄 Pronouns: He/Him/His
+<!-- - 😄 Pronouns: He/Him/His -->
 <!-- - ⚡ Fun fact: ... -->
