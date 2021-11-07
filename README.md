@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Logesh's+GitHub+Profile!)](https://git.io/typing-svg)
 
 <!-- [![Visits Badge](https://badges.pufler.dev/visits/logesh-kumar/logesh-kumar)](https://techdebts.dev) -->
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/devlogesh)
@@ -5,7 +6,7 @@
 
 <!-- <a href="https://app.daily.dev/logesh"><img src="https://api.daily.dev/devcards/5c7fe35c38774618a699892fcfc39a28.png?r=4o7" width="400" alt="Logesh Kumar's Dev Card"/></a> -->
 
-### Hi there, I am Logesh kumar 👋
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, <br> I am Logesh kumar 
 
 I am a full-stack developer and technology consultant. I am fully focused on solving problems and creating tools using Reactjs, React native, Typescript, Graphql, Nextjs, Flutter, nodejs, postgres, mysql, mongodb, WordPress, AWS, Docker. 
 
