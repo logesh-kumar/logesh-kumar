@@ -29,7 +29,7 @@ I am a full-stack developer and technology consultant. I am fully focused on sol
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/logesh-kumar">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=logesh-kumar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34?v2" alt="Logesh's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=logesh-kumar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Logesh's GitHub Stats" />
 </a>
 
 <br>
